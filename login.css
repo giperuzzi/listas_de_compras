@@ -64,7 +64,7 @@ input{
 input:focus{
     border-color: var(--cor-primaria);
     outline: none;
-    box-shadow: 0 0 0 3px rgba(107, 115, 255, 0.25);
+    box-shadow: 0 0 0 3px rgba(245, 110, 218, 0.74);
 }
 .botoes{
     display: flex;
