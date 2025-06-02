@@ -77,15 +77,15 @@ button{
     font-size: 1rem;
     font-weight: 500;
     border: none;
-    border-radius: var(--raio);
+    border-radius: var(#d87093);
     background-color: var(#eec0c8);
-    transition: var(--transition);
+    transition: var(#d87093);
     cursor: pointer;
 
 }
 
 button:hover{
-    background-color: var (palevioletred);
+    background-color: var (#d87093);
 }
 @media (max-width: 360px) {
     .container{
