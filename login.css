@@ -27,5 +27,5 @@
 body {
     font-family: var(--fonte);
     background: #eec0c8;
-background: radial-gradient(circle, rgb(238, 186, 209) 0%, rgba(148, 187, 233, 1) 100%);
+background: radial-gradient(circle, rgb(241, 112, 170) 0%, rgb(167, 196, 230) 100%);
 }
