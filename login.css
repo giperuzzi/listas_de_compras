@@ -39,8 +39,8 @@ background: radial-gradient(circle, rgb(241, 112, 170) 0%, rgb(167, 196, 230) 10
 .container {
     background: var(#FFC0CB);
     padding: clamp(2rem, 5vw, 3rem);
-    border-radius: var(black);
-    box-shadow: 0 8px 24px var(gray);
+    border-radius: var(--raio);
+    box-shadow: 0 8px 24px var(--cor-sombra);
     width: 100%;
     max-width: 400px;
     text-align: center;
