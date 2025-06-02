@@ -26,6 +26,6 @@
 /*-------body----------*/
 body {
     font-family: var(--fonte);
-    background: #f0076c;
+    background: #eec0c8;
 background: radial-gradient(circle, rgba(240, 7, 108, 1) 0%, rgba(148, 187, 233, 1) 100%);
 }
