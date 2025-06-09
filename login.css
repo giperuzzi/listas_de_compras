@@ -85,7 +85,7 @@ button{
     font-size: 1rem;
     font-weight: 500;
     border: none;
-    border-radius: var(#d87093);
+    border-radius: var(--raio);
     background-color: var(#eec0c8);
     transition: var(#d87093);
     cursor: pointer;
